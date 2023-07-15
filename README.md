@@ -11,7 +11,9 @@
 
 <body>
 
-   <h1>Conhecendo o Github</h1><p><img src="img/git.png" alt="git"></p>
+   <h1>Conhecendo o Github</h1>
+
+   <p>  <img src= "git.png" > </p>
 
    <br>
 
@@ -35,7 +37,7 @@
    <ul>
        <li>Github é utilizados no dia a dia das pessoas que criam softwares por um motivo bem simples: ter uma forma fácil de gerenciar o código-fonte da aplicação, do sistema e do produto.</li>
        <li>Aumento dramático na velociade de operação e Árvore de historico completo disponivel off-line são mais exemplos para o por que de usar o Github.</li> 
-       <li>confira um audio mais detalhado cliclando aqui:<a href="file:///home/2023.1.08.031/NetBeansProjects/projeto.icc/public_html/audio.html">Audio.comandos</a></li>
+       <li>confira um audio mais detalhado cliclando aqui:<a href="audio.html"> Audio.comandos </a></li>
    </ul>     
    
    
@@ -71,7 +73,7 @@
    
    <h2>Abaixo há um link para um video com a explicação mais profunda de alguns comandos do Git</h2>
    
-   <p><a href="file:///home/2023.1.08.031/NetBeansProjects/projeto.icc/public_html/video.html"><img src="img/yt.png" alt="yt"></a>
+   <p><a href="video.html"> <img src="yt.png"> </a>
    
    
    
@@ -88,7 +90,7 @@
        <dt><b>Comando Clone:</b></dt>
        <dd><i>Cria uma cópia local de um repositório remoto.</i></dd>
        <dd><i>O comando `clone` é usado para criar uma cópia local de um repositório remoto. Ele copia todos os arquivos, histórico de commits e branches do repositório remoto para o seu computador.</i></dd> 
-       <dd><i>Uso: Execute `git clone URL_do_repositório` para clonar um repositório remoto.</i>
+       <dd><i>Uso: Execute `git clone URL_do_repositório` para clonar um repositório remoto.</i></dd>
    </dl>
    <dl>
        <dt><b>Comando Branch:</b></dt>
@@ -242,4 +244,4 @@
    
 </body>
 
-</html> 
+</html>
