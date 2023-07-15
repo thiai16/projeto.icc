@@ -37,7 +37,7 @@
    <ul>
        <li>Github é utilizados no dia a dia das pessoas que criam softwares por um motivo bem simples: ter uma forma fácil de gerenciar o código-fonte da aplicação, do sistema e do produto.</li>
        <li>Aumento dramático na velociade de operação e Árvore de historico completo disponivel off-line são mais exemplos para o por que de usar o Github.</li> 
-       <li>confira um audio mais detalhado cliclando aqui:<a href="audio.html"> Audio.comandos </a></li>
+       <li>confira um audio mais detalhado cliclando aqui:<a href="projeto-icc/audio.html"> Audio.comandos </a></li>
    </ul>     
    
    
@@ -73,7 +73,7 @@
    
    <h2>Abaixo há um link para um video com a explicação mais profunda de alguns comandos do Git</h2>
    
-   <p><a href="video.html"> <img src="yt.png"> </a>
+   <p><a href="projeto-icc/video.html"> <img src="yt.png"> </a>
    
    
    
